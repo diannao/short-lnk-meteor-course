@@ -2,4 +2,4 @@
 
 ## Udemy course
 
-Meteor and React
+Meteor (Node) and React
